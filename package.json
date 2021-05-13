@@ -1,0 +1,23 @@
+{
+  "name": "node-graphql",
+  "version": "1.0.0",
+  "description": "learn graphql with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadhil Amadan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.8"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "prettier": "^2.3.0"
+  }
+}
